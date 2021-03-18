@@ -24,5 +24,51 @@ namespace UsersApp
         {
             InitializeComponent();
         }
+
+        private void ButtonRegClick(object sender, RoutedEventArgs e)
+        {
+            string login = textBoxLogin.Text.Trim();
+            string firstPassword = textBoxPassword.Password.Trim();
+            string secondPassword = textBoxRepPassword.Password.Trim();
+            string email = textBoxEmail.Text.Trim().ToLower();
+
+            if (login.Length < 5)
+            {
+                textBoxLogin.ToolTip = "Длина логина должна быть больше 5 символов!";
+                textBoxLogin.Background = Brushes.BlueViolet;
+            }
+            else if (firstPassword.Length < 5)
+            {
+                textBoxPassword.ToolTip = "Длина пароля должна быть больше 5 символов!";
+                textBoxPassword.Background = Brushes.BlueViolet;
+            }
+            else if (secondPassword.Length < 5 )
+            {
+                textBoxRepPassword.ToolTip = "Длина пароля должна быть больше 5 символов!";
+                textBoxRepPassword.Background = Brushes.BlueViolet;
+            }
+            else if (firstPassword != secondPassword)
+            {
+                textBoxRepPassword.ToolTip = "Неправильно введен пароль!";
+                textBoxRepPassword.Background = Brushes.BlueViolet;
+            }
+            else if (email.Length < 5 || !(email.Contains('@') || email.Contains('.')))
+            {
+                textBoxEmail.ToolTip = "Поле было введено некорректно!";
+                textBoxRepPassword.Background = Brushes.BlueViolet;
+            }
+            else
+            {
+                textBoxLogin.ToolTip = "";
+                textBoxLogin.Background = Brushes.Transparent;
+                textBoxPassword.ToolTip = "";
+                textBoxPassword.Background = Brushes.Transparent;
+                textBoxRepPassword.ToolTip = "";
+                textBoxRepPassword.Background = Brushes.Transparent;
+                textBoxEmail.ToolTip = "";
+                textBoxRepPassword.Background = Brushes.Transparent;
+                MessageBox.Show("Вы были успешно зарегестрированны!");
+            }
+        }
     }
 }
