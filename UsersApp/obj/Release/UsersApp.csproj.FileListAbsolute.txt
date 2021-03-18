@@ -1,0 +1,41 @@
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\UsersApp.exe.config
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\UsersApp.exe
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\UsersApp.pdb
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\MainWindow.baml
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\MainWindow.g.cs
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\App.g.cs
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp_MarkupCompile.cache
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp.g.resources
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp.Properties.Resources.resources
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp.csproj.GenerateResource.cache
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp.csproj.CoreCompileInputs.cache
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp.exe
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp.pdb
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\MaterialDesignColors.dll
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\MaterialDesignColors.pdb
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\App.baml
+D:\С#\WPF C#\WPF Project\UsersApp\UsersApp\obj\Release\UsersApp.csproj.CopyComplete
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\UsersApp.exe.config
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\UsersApp.exe
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\UsersApp.pdb
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\MaterialDesignColors.dll
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\MaterialDesignColors.pdb
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.csprojAssemblyReference.cache
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\MainWindow.baml
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\App.baml
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\MainWindow.g.cs
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\App.g.cs
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp_MarkupCompile.cache
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.g.resources
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.Properties.Resources.resources
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.csproj.GenerateResource.cache
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.csproj.CopyComplete
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.exe
+C:\Users\Eagle\Desktop\Projects\users-app\UsersApp\obj\Release\UsersApp.pdb
